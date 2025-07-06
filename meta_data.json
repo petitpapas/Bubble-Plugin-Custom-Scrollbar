@@ -3,10 +3,11 @@
         "0": "productivity",
         "1": "technical"
     },
-    "description": "This plugin adds custom scrollbars to your app's pages. Colours, widths and more can be adjusted",
+    "description": "This plugin adds custom scrollbars to your app's pages. Colours, widths and more can be adjusted in the plugins tab.",
     "image": "//s3.amazonaws.com/appforest_uf/f1533560013069x846037440234795300/scroll.PNG",
     "license": "open_source",
     "link": "https://github.com/mbartlett21/Bubble-Plugin-Custom-Scrollbar/issues",
-    "name": "Custom Scrollbar Free",
-    "plugin_instructions": ""
+    "name": "Custom Scrollbar",
+    "plugin_instructions": "You can adjust settings in the plugins tab.\n\nUnfortunately, I can't set any defaults, so you will need to fill out all the inputs before seeing any results.\n\nColours are anything that will be correct when interpreted as a CSS colour (e.g. black, #4FF, #FFFFF8, etc.)\n\nThe width of the scrollbar is just a simple number.",
+    "sa_node_version": 18
 }

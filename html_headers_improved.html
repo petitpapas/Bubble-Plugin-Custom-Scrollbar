@@ -15,7 +15,7 @@
     border-radius: _*_Track border radius_*_px;
     border: _*_Track border width_*_px solid _*_Track border color_*_;
 }
-    
+ 
 /* Handle */
 ::-webkit-scrollbar-thumb {
     background: _*_Scrollbar color_*_;
@@ -140,9 +140,9 @@
             // Remove scrollbar specific styles
             let style = element.getAttribute('style') || '';
             style = style.replace(/scrollbar-width:[^;]+;?/g, '')
-                            .replace(/scrollbar-color:[^;]+;?/g, '')
-                            .replace(/overflow-[xy]:[^;]+;?/g, '')
-                            .replace(/scroll-behavior:[^;]+;?/g, '');
+                         .replace(/scrollbar-color:[^;]+;?/g, '')
+                         .replace(/overflow-[xy]:[^;]+;?/g, '')
+                         .replace(/scroll-behavior:[^;]+;?/g, '');
             
             element.setAttribute('style', style);
             return true;

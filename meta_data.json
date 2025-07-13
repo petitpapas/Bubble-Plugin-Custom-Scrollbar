@@ -3,9 +3,9 @@
         "0": "productivity",
         "1": "technical"
     },
-    "demo_page": "https://devenvinfo.bubbleapps.io/version-test?debug_mode=true",
+    "demo_page": "https://bubble.io/page?id=devenvinfo&test_plugin=1751807540546x784111962742063100_current&tab=Design&name=custom_scrollbar&type=page",
     "description": "This plugin adds custom scrollbars to your app's pages. Colours, widths and more can be adjusted in the plugins tab.",
-    "image": "//s3.amazonaws.com/appforest_uf/f1533560013069x846037440234795300/scroll.PNG",
+    "image": "//meta-q.cdn.bubble.io/f1752407846317x441510615227031000/interface-ui-scroll-bar-scrollbar.svg",
     "license": "commercial",
     "link": "https://github.com/petitpapas/Bubble-Plugin-Custom-Scrollbar",
     "name": "Custom Scrollbar",
